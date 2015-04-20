@@ -1,0 +1,10 @@
+# Site settings
+title: songliang's blog
+email: 756931789@qq.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://songliang89.github.io" # the base hostname & protocol for your site
+twitter_username: songliang2501
+github_username:  songliang89
+
+# Build settings
+markdown: kramdown
